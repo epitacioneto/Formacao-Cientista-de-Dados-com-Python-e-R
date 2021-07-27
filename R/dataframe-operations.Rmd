@@ -1,0 +1,16 @@
+---
+title: "dataframe operations"
+output: html_document
+---
+
+```{r}
+getwd()
+#sem parenteses
+sd
+head(x=iris, n=2)
+head(iris)
+head(iris, 2)
+#erro
+head(n=22)
+```
+

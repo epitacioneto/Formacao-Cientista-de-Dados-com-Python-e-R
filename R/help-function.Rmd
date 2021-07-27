@@ -1,0 +1,10 @@
+---
+title: "help"
+output: html_document
+---
+
+```{r}
+help(sd)
+head(iris)
+```
+
